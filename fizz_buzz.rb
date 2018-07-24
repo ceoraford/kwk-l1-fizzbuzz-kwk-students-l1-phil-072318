@@ -5,5 +5,8 @@ def counter
   number +=1
   end 
   if number %3 == 0 
+  return "Fizz"
+  elsif number %4 ==0 
+  return "Buzz"
 end
 counter
