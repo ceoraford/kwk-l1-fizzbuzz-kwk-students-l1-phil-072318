@@ -3,7 +3,6 @@ def counter
   while number <11
   puts number 
   number +=1
-  end 
   if number %3 == 0 
   return "Fizz"
   elsif number %4 ==0 
