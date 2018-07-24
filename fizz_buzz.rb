@@ -4,11 +4,11 @@ def counter
   puts number 
   number +=1
   if number %3 == 0 
-  return "Fizz"
+  puts "Fizz"
   elsif number %4 ==0 
-  return "Buzz"
+  puts "Buzz"
   elsif number %5 ==0 
-  return "Fizzbuzz"
+  puts "Fizzbuzz"
   end
 end
 end
