@@ -8,5 +8,8 @@ def counter
   return "Fizz"
   elsif number %4 ==0 
   return "Buzz"
+  elsif number %5 ==0 
+  return "Fizzbuzz"
+else 
 end
 counter
