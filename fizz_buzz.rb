@@ -4,6 +4,6 @@ def counter
   puts number 
   number +=1
   end 
-  if number 
+  if number %3 == 0 
 end
 counter
