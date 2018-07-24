@@ -1,7 +1,7 @@
 def counter
   number = 0 
   while number <11
-  puts number!3 
+  puts number 
   number +=1 
   if number %3 == 0 
   puts "Fizz"
