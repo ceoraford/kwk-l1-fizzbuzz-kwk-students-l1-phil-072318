@@ -9,6 +9,8 @@ def counter
   puts "Buzz"
   elsif number %5 ==0 
   puts "Fizzbuzz"
+else 
+  puts number
   end
 end
 end
