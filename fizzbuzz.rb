@@ -7,5 +7,6 @@ elsif value % 5 ==0
   puts "Buzz"
 elsif value %3 ==0 
   puts "Fizz"
-else 
+else
+  puts nil
 end 
