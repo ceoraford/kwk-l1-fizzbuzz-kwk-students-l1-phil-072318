@@ -2,7 +2,7 @@ def counter
   number = 0 
   while number <11
   puts number 
-  number +=1
+  number +=1  
   if number %3 == 0 
   puts "Fizz"
   elsif number %4 ==0 
