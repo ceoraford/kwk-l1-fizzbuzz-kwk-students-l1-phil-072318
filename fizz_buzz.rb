@@ -12,3 +12,4 @@ def counter
   end
 end
 end
+counter
