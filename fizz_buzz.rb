@@ -10,5 +10,5 @@ def counter
   return "Buzz"
   elsif number %5 ==0 
   return "Fizzbuzz"
+  end
 end
-counter
